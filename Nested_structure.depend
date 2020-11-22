@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1606051255 source:c:\c++\nested_structure\main.cpp
+	<iostream>
+	<string>
+
